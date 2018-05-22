@@ -1,0 +1,25 @@
+
+div.container{
+    width:100%;
+    border:auto;
+}
+header{
+    padding:17px;
+    color:green;
+    background-color:lightseagreen;
+    
+    text-align:center;
+}
+footer{
+    background-color:rgb(108, 165, 108);
+    text-align:center;
+    padding:10px;
+}
+.center{
+    padding:30px;
+    margin:2px;
+    font-size:17px;
+    text-align:center;
+    background-color:rgb(122, 158, 224);
+    
+}
