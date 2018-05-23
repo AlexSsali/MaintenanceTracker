@@ -21,7 +21,26 @@ footer{
     font-size:17px;
     text-align:center;
     background-color:rgb(122, 158, 224);
-    
+}
+.cleft{
+    padding:30px;
+    margin:2px;
+    font-size:17px;
+    text-align:left;
+    background-color:rgb(122, 158, 224);
+}
+.hright{
+    padding:5px;
+    margin:2px;
+    font-size:17px;
+    text-align:right;    
+}
+.cright{
+    padding:5px;
+    margin:2px;
+    font-size:17px;
+    text-align:right;
+    position: relative;
 }
 .navbar{
     overflow:hidden;
@@ -49,3 +68,22 @@ footer{
     padding: 2px;
     left:70%;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: rgb(14, 3, 1);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
