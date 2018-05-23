@@ -23,3 +23,29 @@ footer{
     background-color:rgb(122, 158, 224);
     
 }
+.navbar{
+    overflow:hidden;
+    background-color: rgba(172, 158, 158, 0.342);
+    position: relative;
+    font-size:20px;
+    top:10; 
+    left:20%;
+    height:30px;
+    width:18%;}
+
+.box1{
+    position: relative;
+    background-color: rgb(223, 193, 61);
+    width: 93px;
+    border: 2px;
+    padding: 2px;
+    left:20%;
+}
+.box2{
+    position: relative;;
+    background-color: rgb(223, 193, 61);
+    width: 87px;
+    border: 2px;
+    padding: 2px;
+    left:70%;
+}
